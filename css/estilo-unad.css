@@ -1,0 +1,130 @@
+#principal{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #E8E8E8;
+	margin: auto; 
+}
+
+header{
+	width: 900px;
+	height: 200px;
+	border: 0px solid #000;
+}
+
+#logo{
+	width: 900px;
+	height: 120px;
+	border: 0px solid #000;
+	float: left;
+}
+
+
+.titulo{
+	margin-top: 25px;
+	font-size: 30px;
+}
+
+
+.sub-titulo{
+	font-size: 14px;
+	margin-top: -20px;
+}
+
+
+.menu{
+	width: 735px;
+	height: 55px;
+	border: 1px solid #ccc;
+	float: right;
+	margin-top: 40px;
+	background: #006699;
+}
+
+.menu ul{}
+
+.menu ul li {
+	list-style: none;
+	float: right;
+}
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 0px solid #ccc;
+	color: #fff;
+}
+
+#seguridad{
+	margin-top: 30px;
+	width: 900px;
+	height: 250px; 
+}
+
+#categorias{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	margin-top: -35px;
+}
+
+.uno{
+	width: 280px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px;
+	text-align: center;
+}
+
+.dos{
+	margin-left: 12px;
+	margin-right: 12px;
+}
+
+.leer-mas{
+	text-decoration: none;
+	border: 1px solid #006699;
+	padding: 10px 20px 10px 20px; 
+	margin: 10px 
+}
+
+.leer-mas:hover{
+	background: #006699;
+	color: #fff;
+	transition: background 1s, color 1s;
+}
+
+
+#info{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #c0c0c0;
+	margin-top: 10px;
+}
+
+
+#izq{
+	width: 585px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px;
+}
+
+
+#der{
+	width: 290px;
+	height: 300px;
+	border: 1px solid #ccc;
+	float: right;
+}
+
+footer{
+	width: 900px;
+	height: 100px;
+	text-align: center;
+}
+
+#footer p{
+	width: 500px;
+}
+

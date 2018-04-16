@@ -1,0 +1,10 @@
+
+footer{
+	width: 900px;
+	height: auto; overflow: hidden;
+	text-align: center;
+}
+
+#footer p{
+	width: 500px;
+}
